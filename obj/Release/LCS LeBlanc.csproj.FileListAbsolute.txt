@@ -1,0 +1,12 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\LCS LeBlanc.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\LCS LeBlanc.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\LCS LeBlanc.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\EloBuddy.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\EloBuddy.SDK.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\SharpDX.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\obj\Release\LCS LeBlanc.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\obj\Release\LCS LeBlanc.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LCS LeBlanc\LCS LeBlanc\obj\Release\LCS LeBlanc.csprojResolveAssemblyReference.cache
